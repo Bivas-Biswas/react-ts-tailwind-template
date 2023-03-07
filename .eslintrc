@@ -73,6 +73,6 @@
     ],
     "import/no-anonymous-default-export": "error",
     // console logs detect
-    "no-console": "warn"
+    "no-console": "error"
   }
 }
